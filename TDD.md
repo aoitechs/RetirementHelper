@@ -1,3 +1,5 @@
+https://apifox.com/apidoc/shared/faff130e-7aa3-42da-9f93-574b16c8acda/api-15277838
+
 ### **「桌面助手小工具」设计文档**
 
 ---

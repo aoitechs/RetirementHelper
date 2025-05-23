@@ -1,0 +1,11 @@
+{
+  "work_time": {
+    "start": "09:00",
+    "end": "18:00"
+  },
+  "reminder": {
+    "drink_interval": 120,
+    "enable_news": true,
+    "enable_huangli": true
+  }
+}
